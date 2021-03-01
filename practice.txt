@@ -1,0 +1,66 @@
+class Stringreverse{
+public static void main(String[] args){
+String original, reverse=" ";
+Scanner input = new Scanner(System.in);
+
+System.out.println("enter string to reverse");
+original= input.nextline();
+
+ 
+int length= orginal.length();
+
+for (i = length-1; i>=0;i--)
+ reverse = reverse + originl.chartAt(i)
+
+}
+}
+-------------------------------------------------------
+class Stringreverse{
+public static void main(String[] args){
+String original, reverse=" ";
+Scanner input = new Scanner(System.in);
+
+System.out.println("enter string to reverse");
+original= input.nextline();
+
+StringBuilder sb= new StringBuilder(original);
+
+sb.reverse.toString()
+
+
+-stringformatter can also be used in reverse of string
+
+==
+class ArmstrongExample {
+public static void main(String[] args)
+{
+int n=153, c=0, temp;
+temp=n;
+while(n>0)
+{
+a=n
+}
+}
+}
+class FiboncciExmple1{
+public static void main(String[] args)
+{
+int n1=0, n2=1 n3, count=10, i;
+System.out.println(n1+,","+n2);
+
+for(i=2; i<count; i++)
+{
+ n3= n1+n2;
+n1=n2;
+n2=n3;
+}
+
+0,1,1,2,3,5
+}
+}
+
+----------------- fibonacci series using recursion/
+----------
+
+
+
